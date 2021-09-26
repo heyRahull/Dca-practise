@@ -1,3 +1,16 @@
+/*Write a program to remove 7 and 56 from given string.
+
+Examples :
+1) Input : "abc7def56hipk"
+   Output : "abcdefhipk"
+    
+2) Input : "abh7i5no6ipq"
+   Output : "abhi5no6ipq"
+
+*/
+
+
+#include <stdio.h>
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
